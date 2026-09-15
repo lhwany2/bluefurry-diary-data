@@ -16,7 +16,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "ea851486-0aa3-4d5d-859c-426ce8b10107",
+      "author": "휴늘",
+      "text": "",
+      "image": "images/2026-09-15/휴늘-1789482856869-comment.png",
+      "createdAt": "2026-09-15T14:34:19.796Z"
+    }
+  ],
   "createdAt": "2026-09-15T14:34:04.929Z",
-  "updatedAt": "2026-09-15T14:34:06.329Z"
+  "updatedAt": "2026-09-15T14:34:19.796Z"
 }
