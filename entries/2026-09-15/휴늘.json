@@ -7,7 +7,12 @@
     "#커뮤캐짜야함(우울)"
   ],
   "content": "살자... (어?사진왜안올라가 ㅆㅂ",
-  "images": [],
+  "images": [
+    "images/2026-09-15/휴늘-1789483252363-entry.png",
+    "images/2026-09-15/휴늘-1789483255007-entry.png",
+    "images/2026-09-15/휴늘-1789483257070-entry.png",
+    "images/2026-09-15/휴늘-1789483259445-entry.png"
+  ],
   "checklist": {
     "sleepHours": 7,
     "medication": false,
@@ -47,5 +52,5 @@
     }
   ],
   "createdAt": "2026-09-15T14:34:04.929Z",
-  "updatedAt": "2026-09-15T14:38:44.373Z"
+  "updatedAt": "2026-09-15T14:41:02.158Z"
 }
