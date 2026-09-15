@@ -68,8 +68,15 @@
       "text": "not art museum",
       "image": null,
       "createdAt": "2026-09-15T13:33:31.800Z"
+    },
+    {
+      "id": "53b421ff-b57a-4d52-b909-38c6ee7ff34f",
+      "author": "휴늘",
+      "text": "동생이ㅙ아픈데",
+      "image": null,
+      "createdAt": "2026-09-15T13:34:15.579Z"
     }
   ],
   "createdAt": "2026-09-15T12:57:22.739Z",
-  "updatedAt": "2026-09-15T13:33:31.800Z"
+  "updatedAt": "2026-09-15T13:34:15.579Z"
 }
