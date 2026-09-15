@@ -20,7 +20,11 @@
     "cleaning": false,
     "delivery": false
   },
-  "reactions": {},
+  "reactions": {
+    "👍": [
+      "치아왼협회"
+    ]
+  },
   "comments": [
     {
       "id": "ea851486-0aa3-4d5d-859c-426ce8b10107",
@@ -59,5 +63,5 @@
     }
   ],
   "createdAt": "2026-09-15T14:34:04.929Z",
-  "updatedAt": "2026-09-15T14:43:58.034Z"
+  "updatedAt": "2026-09-15T14:49:51.762Z"
 }
