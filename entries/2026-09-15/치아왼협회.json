@@ -61,8 +61,15 @@
       "text": "미술관  <ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
       "image": null,
       "createdAt": "2026-09-15T13:33:05.624Z"
+    },
+    {
+      "id": "07a35b3c-9123-49e4-9166-2c33f1403590",
+      "author": "휴늘",
+      "text": "not art museum",
+      "image": null,
+      "createdAt": "2026-09-15T13:33:31.800Z"
     }
   ],
   "createdAt": "2026-09-15T12:57:22.739Z",
-  "updatedAt": "2026-09-15T13:33:05.624Z"
+  "updatedAt": "2026-09-15T13:33:31.800Z"
 }
