@@ -13,8 +13,12 @@
     "cleaning": false,
     "delivery": false
   },
-  "reactions": {},
+  "reactions": {
+    "❤️": [
+      "치아왼협회"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-09-15T14:57:50.673Z",
-  "updatedAt": "2026-09-15T14:58:06.886Z"
+  "updatedAt": "2026-09-15T15:10:26.054Z"
 }
