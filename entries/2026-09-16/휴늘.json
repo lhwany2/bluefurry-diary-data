@@ -11,8 +11,12 @@
   "checklist": {
     "sleepHours": 6
   },
-  "reactions": {},
+  "reactions": {
+    "😆": [
+      "치아왼협회"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-09-16T14:02:09.968Z",
-  "updatedAt": "2026-09-16T14:02:47.663Z"
+  "updatedAt": "2026-09-16T16:21:18.975Z"
 }
