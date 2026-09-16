@@ -10,7 +10,15 @@
     "sleepHours": 5
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "7408ab7b-60c8-4ee2-a202-db7cdf81dee8",
+      "author": "휴늘",
+      "text": "생각보다 잘함< 뭐임? ㅆㅂ재능",
+      "image": null,
+      "createdAt": "2026-09-16T15:37:15.972Z"
+    }
+  ],
   "createdAt": "2026-09-16T14:25:14.803Z",
-  "updatedAt": "2026-09-16T14:25:14.854Z"
+  "updatedAt": "2026-09-16T15:37:15.974Z"
 }
