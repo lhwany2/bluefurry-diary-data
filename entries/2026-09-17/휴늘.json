@@ -10,7 +10,15 @@
     "sleepHours": 4
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "c5cd3c6f-fa86-4888-8bae-a4ba36bc9054",
+      "author": "인",
+      "text": "와개알차게살앗네......,,,,...........",
+      "image": null,
+      "createdAt": "2026-09-17T16:23:37.193Z"
+    }
+  ],
   "createdAt": "2026-09-17T16:15:00.710Z",
-  "updatedAt": "2026-09-17T16:15:03.140Z"
+  "updatedAt": "2026-09-17T16:23:37.194Z"
 }
