@@ -13,7 +13,11 @@
     "cleaning": false,
     "delivery": false
   },
-  "reactions": {},
+  "reactions": {
+    "🍀": [
+      "휴늘"
+    ]
+  },
   "comments": [
     {
       "id": "2045c463-cb90-40b0-983a-ade7a1c269ec",
@@ -59,5 +63,5 @@
     }
   ],
   "createdAt": "2026-09-17T16:19:59.800Z",
-  "updatedAt": "2026-09-17T22:46:27.342Z"
+  "updatedAt": "2026-09-17T22:46:34.272Z"
 }
