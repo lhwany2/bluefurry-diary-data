@@ -12,7 +12,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "e9d570a1-4f9d-44be-bf77-5d4d2d4992b5",
+      "author": "인",
+      "text": "와......,,,,레전드네그ㅜ냥",
+      "image": null,
+      "createdAt": "2026-09-18T15:48:51.418Z"
+    }
+  ],
   "createdAt": "2026-09-18T15:45:55.352Z",
-  "updatedAt": "2026-09-18T15:46:12.295Z"
+  "updatedAt": "2026-09-18T15:48:51.418Z"
 }
