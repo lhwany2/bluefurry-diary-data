@@ -16,7 +16,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "d36ef904-cb8e-4571-8b28-7222d1b3e4c1",
+      "author": "휴늘",
+      "text": "와점점길어지네 발전뭐지",
+      "image": null,
+      "createdAt": "2026-09-18T15:33:31.056Z"
+    }
+  ],
   "createdAt": "2026-09-18T15:23:06.571Z",
-  "updatedAt": "2026-09-18T15:23:10.151Z"
+  "updatedAt": "2026-09-18T15:33:31.057Z"
 }
