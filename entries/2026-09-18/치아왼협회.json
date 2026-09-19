@@ -14,7 +14,15 @@
     "sleepHours": 4
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "7d8cfacb-c58c-4fbd-b7d6-599e459d63b7",
+      "author": "인",
+      "text": "와...,,,..........미쳤네",
+      "image": null,
+      "createdAt": "2026-09-19T02:32:02.481Z"
+    }
+  ],
   "createdAt": "2026-09-18T16:58:58.845Z",
-  "updatedAt": "2026-09-18T16:59:05.406Z"
+  "updatedAt": "2026-09-19T02:32:02.482Z"
 }
