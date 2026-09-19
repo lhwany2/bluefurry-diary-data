@@ -10,7 +10,15 @@
     "sleepHours": 9
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "29d7c03f-b4e7-458e-b4c4-1a3f806b4cf1",
+      "author": "인",
+      "text": "와동생이랑사이좋은거 개신기하네...,,,....가능하구나",
+      "image": null,
+      "createdAt": "2026-09-19T15:48:11.657Z"
+    }
+  ],
   "createdAt": "2026-09-19T15:29:07.553Z",
-  "updatedAt": "2026-09-19T15:29:07.620Z"
+  "updatedAt": "2026-09-19T15:48:11.657Z"
 }
