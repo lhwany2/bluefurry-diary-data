@@ -63,8 +63,15 @@
       "text": "아니 b랑 a 이야기 레전드네",
       "image": null,
       "createdAt": "2026-09-19T05:16:13.087Z"
+    },
+    {
+      "id": "f6d54c6a-e2ae-4b7f-b574-17daff815c0f",
+      "author": "휴늘",
+      "text": "어.... 잘되세요",
+      "image": null,
+      "createdAt": "2026-09-19T05:16:58.563Z"
     }
   ],
   "createdAt": "2026-09-18T16:58:58.845Z",
-  "updatedAt": "2026-09-19T05:16:13.089Z"
+  "updatedAt": "2026-09-19T05:16:58.563Z"
 }
