@@ -16,7 +16,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "3f3771d1-0693-4fbf-b4df-56fef9c0770b",
+      "author": "휴늘",
+      "text": "인 진짜 고등학생되고갑자기존나열심히살아서벽느껴짐",
+      "image": null,
+      "createdAt": "2026-09-19T16:18:29.692Z"
+    }
+  ],
   "createdAt": "2026-09-19T15:34:17.818Z",
-  "updatedAt": "2026-09-19T15:34:37.122Z"
+  "updatedAt": "2026-09-19T16:18:29.693Z"
 }
