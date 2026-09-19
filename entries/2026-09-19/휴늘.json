@@ -10,7 +10,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "34ed54e7-5da6-42ec-88ec-06fdfe891190",
+      "author": "치아왼협회",
+      "text": "시벌나는 오늘 듀오링고하다가 뭔브롤스타즈어쩌고해서 이게뭐지..?햇는데ㅡ",
+      "image": null,
+      "createdAt": "2026-09-19T15:30:00.623Z"
+    }
+  ],
   "createdAt": "2026-09-19T15:18:08.376Z",
-  "updatedAt": "2026-09-19T15:18:10.360Z"
+  "updatedAt": "2026-09-19T15:30:00.623Z"
 }
