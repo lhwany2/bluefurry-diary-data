@@ -16,7 +16,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "9d171ab9-0bc0-4faf-a2e6-f031d7ec82b2",
+      "author": "치아왼협회",
+      "text": "아니호프 궁금해서나중에볼랫는데 머ㅓ라고..?",
+      "image": null,
+      "createdAt": "2026-09-20T14:18:08.550Z"
+    }
+  ],
   "createdAt": "2026-09-20T14:00:26.290Z",
-  "updatedAt": "2026-09-20T14:00:42.836Z"
+  "updatedAt": "2026-09-20T14:18:08.550Z"
 }
