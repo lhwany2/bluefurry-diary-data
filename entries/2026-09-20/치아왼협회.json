@@ -12,7 +12,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "3d96704d-577c-4165-a550-12b8fdfe21e2",
+      "author": "휴늘",
+      "text": "앙상블스타즈를이긴게개웃기네",
+      "image": null,
+      "createdAt": "2026-09-20T14:19:45.325Z"
+    }
+  ],
   "createdAt": "2026-09-20T14:12:49.962Z",
-  "updatedAt": "2026-09-20T14:12:55.090Z"
+  "updatedAt": "2026-09-20T14:19:45.329Z"
 }
