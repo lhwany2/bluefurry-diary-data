@@ -13,7 +13,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "c0d33f5d-51e4-4ee1-8d2b-1127d9529a61",
+      "author": "치아왼협회",
+      "text": "아니근데트위터를 어케 8시간이나하지…? 벽느껴짐",
+      "image": null,
+      "createdAt": "2026-09-20T14:26:16.064Z"
+    }
+  ],
   "createdAt": "2026-09-20T14:12:44.214Z",
-  "updatedAt": "2026-09-20T14:13:48.884Z"
+  "updatedAt": "2026-09-20T14:26:16.065Z"
 }
