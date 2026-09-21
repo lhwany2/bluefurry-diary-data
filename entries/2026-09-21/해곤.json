@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "ea7fc656-e5cf-4bb7-a7f1-75c63850d44b",
+      "author": "치아왼협회",
+      "text": "아니밥 ㅈㄴ야르하게먹엇네 개부러워",
+      "image": null,
+      "createdAt": "2026-09-21T15:01:25.463Z"
+    }
+  ],
   "createdAt": "2026-09-21T13:38:02.690Z",
-  "updatedAt": "2026-09-21T13:38:06.590Z"
+  "updatedAt": "2026-09-21T15:01:25.463Z"
 }
