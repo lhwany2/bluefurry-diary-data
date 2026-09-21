@@ -10,7 +10,15 @@
     "sleepHours": 3
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "db9bdc6b-080c-4546-92c4-97b4b96d6dc2",
+      "author": "휴늘",
+      "text": "아니도대체영어랑마스코트만들기가뭔관련ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "image": null,
+      "createdAt": "2026-09-21T21:23:53.523Z"
+    }
+  ],
   "createdAt": "2026-09-21T15:00:40.263Z",
-  "updatedAt": "2026-09-21T15:00:40.308Z"
+  "updatedAt": "2026-09-21T21:23:53.523Z"
 }
