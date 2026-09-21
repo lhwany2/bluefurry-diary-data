@@ -16,7 +16,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "521e19d6-0bbe-412b-b4ed-f786d8d0ea92",
+      "author": "휴늘",
+      "text": "아니 ㅈㄴ좋은친구생겻네씨발개부럽",
+      "image": null,
+      "createdAt": "2026-09-21T21:25:54.765Z"
+    }
+  ],
   "createdAt": "2026-09-21T16:00:52.692Z",
-  "updatedAt": "2026-09-21T16:00:58.131Z"
+  "updatedAt": "2026-09-21T21:25:54.765Z"
 }
