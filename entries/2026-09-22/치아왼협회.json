@@ -8,7 +8,15 @@
     "sleepHours": 5
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "6d814681-6497-4561-abbe-12d58529652f",
+      "author": "휴늘",
+      "text": "깁자기이정도로짧게",
+      "image": null,
+      "createdAt": "2026-09-22T22:04:21.364Z"
+    }
+  ],
   "createdAt": "2026-09-22T16:31:01.891Z",
-  "updatedAt": "2026-09-22T16:31:02.623Z"
+  "updatedAt": "2026-09-22T22:04:21.365Z"
 }
