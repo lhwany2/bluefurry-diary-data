@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "1675ac8b-fbb9-4eb3-9c14-68e38dbe3f9c",
+      "author": "휴늘",
+      "text": "오디세이 ㅈㄴ긍금",
+      "image": null,
+      "createdAt": "2026-09-22T22:05:11.928Z"
+    }
+  ],
   "createdAt": "2026-09-22T16:04:17.297Z",
-  "updatedAt": "2026-09-22T16:07:14.252Z"
+  "updatedAt": "2026-09-22T22:05:11.928Z"
 }
