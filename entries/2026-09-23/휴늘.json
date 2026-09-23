@@ -10,7 +10,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "a2f5ef1e-5439-4432-835e-2713f50d2e85",
+      "author": "해곤",
+      "text": "대체무슨설정이길래.......12월언제오냐진짜",
+      "image": null,
+      "createdAt": "2026-09-23T14:05:05.176Z"
+    }
+  ],
   "createdAt": "2026-09-23T11:58:24.927Z",
-  "updatedAt": "2026-09-23T11:58:28.182Z"
+  "updatedAt": "2026-09-23T14:05:05.176Z"
 }
