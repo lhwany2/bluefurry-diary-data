@@ -12,7 +12,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "5f1b079d-5303-4dac-9b1b-33051e971432",
+      "author": "해곤",
+      "text": "와웃기게ㄴㄴ 진심 체육시간에 저걸 머리에 차고 어잇짜어잇짜하면서 복싱을 한다고",
+      "image": null,
+      "createdAt": "2026-09-23T12:58:00.899Z"
+    }
+  ],
   "createdAt": "2026-09-22T18:03:53.465Z",
-  "updatedAt": "2026-09-22T18:15:58.092Z"
+  "updatedAt": "2026-09-23T12:58:00.899Z"
 }
