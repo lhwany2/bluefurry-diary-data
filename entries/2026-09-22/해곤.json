@@ -12,7 +12,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "ca7717a8-de4e-43e4-a827-efa255539c04",
+      "author": "휴늘",
+      "text": "와몰폰을 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "image": null,
+      "createdAt": "2026-09-23T03:42:31.707Z"
+    }
+  ],
   "createdAt": "2026-09-23T00:11:35.382Z",
-  "updatedAt": "2026-09-23T00:11:38.307Z"
+  "updatedAt": "2026-09-23T03:42:31.708Z"
 }
