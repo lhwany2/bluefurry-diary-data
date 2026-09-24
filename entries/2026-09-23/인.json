@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "c548e753-6873-429f-a6e1-cafc9423d67d",
+      "author": "휴늘",
+      "text": "ㅆㅂ체육개잘햇네내가하면5개나옴",
+      "image": null,
+      "createdAt": "2026-09-24T13:45:25.626Z"
+    }
+  ],
   "createdAt": "2026-09-24T06:41:20.917Z",
-  "updatedAt": "2026-09-24T06:41:31.195Z"
+  "updatedAt": "2026-09-24T13:45:25.627Z"
 }
