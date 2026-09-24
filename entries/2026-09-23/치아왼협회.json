@@ -10,7 +10,15 @@
     "sleepHours": 5
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "8fd69e30-43f5-459e-a669-b714b7c99b38",
+      "author": "휴늘",
+      "text": "그래엄나타미로리를그렸구나",
+      "image": null,
+      "createdAt": "2026-09-24T03:45:23.189Z"
+    }
+  ],
   "createdAt": "2026-09-23T14:40:32.994Z",
-  "updatedAt": "2026-09-23T14:40:33.026Z"
+  "updatedAt": "2026-09-24T03:45:23.189Z"
 }
