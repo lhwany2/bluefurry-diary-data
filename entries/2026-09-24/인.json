@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "e2a6906a-5303-43e5-88e9-9f3f0443f532",
+      "author": "휴늘",
+      "text": "연어초밥부러워",
+      "image": null,
+      "createdAt": "2026-09-24T16:45:40.284Z"
+    }
+  ],
   "createdAt": "2026-09-24T15:46:15.247Z",
-  "updatedAt": "2026-09-24T15:46:16.686Z"
+  "updatedAt": "2026-09-24T16:45:40.284Z"
 }
