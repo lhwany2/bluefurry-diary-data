@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "4fdbf02c-4fe2-4407-9d7f-00bdebf76148",
+      "author": "휴늘",
+      "text": "아니이게무슨소리어ㅑㅏㅕㅕㅓㅠㅠㅠㅠ",
+      "image": null,
+      "createdAt": "2026-09-24T03:43:41.737Z"
+    }
+  ],
   "createdAt": "2026-09-23T14:15:37.533Z",
-  "updatedAt": "2026-09-23T14:15:53.948Z"
+  "updatedAt": "2026-09-24T03:43:41.738Z"
 }
