@@ -13,7 +13,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "f0802006-0dba-4c74-81b9-b192a3c9f43e",
+      "author": "휴늘",
+      "text": "육전졸라맛있겠다진짜개부럽다...",
+      "image": null,
+      "createdAt": "2026-09-24T16:43:52.537Z"
+    }
+  ],
   "createdAt": "2026-09-24T16:03:26.948Z",
-  "updatedAt": "2026-09-24T16:03:31.388Z"
+  "updatedAt": "2026-09-24T16:43:52.537Z"
 }
