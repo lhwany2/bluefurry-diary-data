@@ -10,7 +10,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "f81feb6b-a711-40d3-a751-8864278e75bc",
+      "author": "해곤",
+      "text": "땡초김 맛있겠다ㅠㅠㅠㅠㅠ부럽다",
+      "image": null,
+      "createdAt": "2026-09-25T12:49:54.384Z"
+    }
+  ],
   "createdAt": "2026-09-24T13:44:09.072Z",
-  "updatedAt": "2026-09-24T13:44:09.838Z"
+  "updatedAt": "2026-09-25T12:49:54.384Z"
 }
