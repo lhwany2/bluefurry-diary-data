@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "0b86e060-4560-47a3-ba27-8e115d8e81d0",
+      "author": "휴늘",
+      "text": "엄마랑데이트한거너무귀염다..",
+      "image": null,
+      "createdAt": "2026-09-25T16:51:34.901Z"
+    }
+  ],
   "createdAt": "2026-09-25T16:23:52.392Z",
-  "updatedAt": "2026-09-25T16:27:45.919Z"
+  "updatedAt": "2026-09-25T16:51:34.902Z"
 }
