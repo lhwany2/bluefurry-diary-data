@@ -15,7 +15,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "7a02d6f5-5114-44b0-824f-46773bedb7dc",
+      "author": "치아왼협회",
+      "text": "마라로제엽떡 존니맛잇겟다시절",
+      "image": null,
+      "createdAt": "2026-09-25T14:16:27.467Z"
+    }
+  ],
   "createdAt": "2026-09-25T12:58:18.632Z",
-  "updatedAt": "2026-09-25T12:58:20.533Z"
+  "updatedAt": "2026-09-25T14:16:27.467Z"
 }
