@@ -10,7 +10,15 @@
     "sleepHours": 10
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "da4be8aa-c6ec-4542-ab1a-200088d1422f",
+      "author": "휴늘",
+      "text": "내가커미션에4만원쓴건아무것도아니여서좀안심됨🫰😄😄😄😄😄 ㅅㅂ",
+      "image": null,
+      "createdAt": "2026-09-25T14:43:57.180Z"
+    }
+  ],
   "createdAt": "2026-09-25T14:16:00.065Z",
-  "updatedAt": "2026-09-25T14:16:00.110Z"
+  "updatedAt": "2026-09-25T14:43:57.181Z"
 }
