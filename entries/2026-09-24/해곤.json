@@ -16,7 +16,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "6e98cba9-07a9-43f6-959d-ca6644a4344c",
+      "author": "치아왼협회",
+      "text": "먹물 잘쓰면은는 맛익는데(근대비주얼은진짜걍불가능이긴함)",
+      "image": null,
+      "createdAt": "2026-09-25T14:21:21.036Z"
+    }
+  ],
   "createdAt": "2026-09-25T12:49:22.203Z",
-  "updatedAt": "2026-09-25T12:50:49.825Z"
+  "updatedAt": "2026-09-25T14:21:21.036Z"
 }
