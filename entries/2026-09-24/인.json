@@ -56,8 +56,15 @@
       "text": "연아가 연어초밥을?",
       "image": null,
       "createdAt": "2026-09-25T12:51:26.909Z"
+    },
+    {
+      "id": "fa599f94-52f7-49ab-a7c4-cff0f51d562c",
+      "author": "해곤",
+      "text": "푸하하",
+      "image": null,
+      "createdAt": "2026-09-25T12:51:31.165Z"
     }
   ],
   "createdAt": "2026-09-24T15:46:15.247Z",
-  "updatedAt": "2026-09-25T12:51:26.909Z"
+  "updatedAt": "2026-09-25T12:51:31.165Z"
 }
