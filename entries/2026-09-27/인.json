@@ -12,7 +12,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "9385dbd5-d4de-492b-9e73-ac8cbe0e76a9",
+      "author": "휴늘",
+      "text": "아이돌 ㅋㅋ커염",
+      "image": null,
+      "createdAt": "2026-09-27T18:55:15.873Z"
+    }
+  ],
   "createdAt": "2026-09-27T15:26:28.404Z",
-  "updatedAt": "2026-09-27T15:26:29.718Z"
+  "updatedAt": "2026-09-27T18:55:15.882Z"
 }
