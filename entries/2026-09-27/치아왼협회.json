@@ -8,7 +8,15 @@
     "sleepHours": 8
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "43f07136-2449-4310-8733-b80f13786e59",
+      "author": "휴늘",
+      "text": "그래요윤서님도화내면서기모띠하게사세요",
+      "image": null,
+      "createdAt": "2026-09-27T18:53:45.816Z"
+    }
+  ],
   "createdAt": "2026-09-27T16:54:31.887Z",
-  "updatedAt": "2026-09-27T16:54:33.289Z"
+  "updatedAt": "2026-09-27T18:53:45.821Z"
 }
