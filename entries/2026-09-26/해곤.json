@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "9a946eac-5d69-4082-aa2b-e7bc5037adc8",
+      "author": "휴늘",
+      "text": "와!!!! ㅠㅠ넘부럽 맛있는거많이먹었네",
+      "image": null,
+      "createdAt": "2026-09-28T13:56:24.067Z"
+    }
+  ],
   "createdAt": "2026-09-28T13:45:15.179Z",
-  "updatedAt": "2026-09-28T13:45:26.096Z"
+  "updatedAt": "2026-09-28T13:56:24.075Z"
 }
