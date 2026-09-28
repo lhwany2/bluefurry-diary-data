@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "09b84883-2fb1-40a4-852d-55c0aac135de",
+      "author": "휴늘",
+      "text": "토스트...ㅆㅂ",
+      "image": null,
+      "createdAt": "2026-09-28T13:58:44.865Z"
+    }
+  ],
   "createdAt": "2026-09-28T13:38:55.483Z",
-  "updatedAt": "2026-09-28T13:38:56.671Z"
+  "updatedAt": "2026-09-28T13:58:44.866Z"
 }
