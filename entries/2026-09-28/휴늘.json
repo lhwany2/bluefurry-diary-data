@@ -11,7 +11,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "8e7fffe5-10a8-43b2-815d-d97603c1f0cc",
+      "author": "치아왼협회",
+      "text": "난는뭐 돈생기는 족족 똥스타에 다 붓는데 걍 ㅈ된듯",
+      "image": null,
+      "createdAt": "2026-09-28T15:21:31.537Z"
+    }
+  ],
   "createdAt": "2026-09-28T14:12:43.054Z",
-  "updatedAt": "2026-09-28T14:20:54.573Z"
+  "updatedAt": "2026-09-28T15:21:31.537Z"
 }
