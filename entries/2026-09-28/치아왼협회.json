@@ -11,7 +11,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "d5936eb2-6c71-4462-8f9f-47c40bfa2905",
+      "author": "휴늘",
+      "text": "아니뭔발레를하냐",
+      "image": null,
+      "createdAt": "2026-09-28T15:11:46.383Z"
+    }
+  ],
   "createdAt": "2026-09-28T15:06:39.490Z",
-  "updatedAt": "2026-09-28T15:06:48.234Z"
+  "updatedAt": "2026-09-28T15:11:46.383Z"
 }
