@@ -14,7 +14,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "0fad30c6-e747-4f2c-946f-63f4263d56dc",
+      "author": "치아왼협회",
+      "text": "아니나는뭐 주절주절 써놧더니긴데 걍내용이없음 씨벌",
+      "image": null,
+      "createdAt": "2026-09-28T07:38:29.389Z"
+    }
+  ],
   "createdAt": "2026-09-27T18:46:34.526Z",
-  "updatedAt": "2026-09-27T18:51:44.896Z"
+  "updatedAt": "2026-09-28T07:38:29.389Z"
 }
