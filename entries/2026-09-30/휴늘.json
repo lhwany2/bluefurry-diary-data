@@ -10,7 +10,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "7e9edb07-6d8f-43f1-b635-c2c2da409b7a",
+      "author": "해곤",
+      "text": "오늘은 방과후가 짱 재밌었네!!!!!",
+      "image": null,
+      "createdAt": "2026-09-30T11:54:12.790Z"
+    }
+  ],
   "createdAt": "2026-09-30T07:41:46.476Z",
-  "updatedAt": "2026-09-30T07:41:47.267Z"
+  "updatedAt": "2026-09-30T11:54:12.791Z"
 }
