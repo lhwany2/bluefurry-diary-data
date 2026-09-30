@@ -8,7 +8,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "16885de7-1c81-4029-89f7-f5f3aedff814",
+      "author": "휴늘",
+      "text": "인스타 ㅈㄴ웃기네",
+      "image": null,
+      "createdAt": "2026-09-30T23:21:38.480Z"
+    }
+  ],
   "createdAt": "2026-09-30T15:54:02.413Z",
-  "updatedAt": "2026-09-30T15:54:02.923Z"
+  "updatedAt": "2026-09-30T23:21:38.481Z"
 }
