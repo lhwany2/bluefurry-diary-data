@@ -8,7 +8,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "6ee13c7d-bed1-4fec-9a39-9c0cc671a3a2",
+      "author": "해곤",
+      "text": "그래더 윤잱 글 잘 쓰니까 안 봐도 100점이겟쥐ㅋ",
+      "image": null,
+      "createdAt": "2026-09-30T11:57:27.922Z"
+    }
+  ],
   "createdAt": "2026-09-29T14:25:35.717Z",
-  "updatedAt": "2026-09-29T14:25:44.314Z"
+  "updatedAt": "2026-09-30T11:57:27.922Z"
 }
