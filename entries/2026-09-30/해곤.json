@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "0049279e-95cb-4a0d-bd59-74ca47d31b62",
+      "author": "인",
+      "text": "67???잘봣는데 해곤학교 시험어렵지않나",
+      "image": null,
+      "createdAt": "2026-09-30T15:32:23.450Z"
+    }
+  ],
   "createdAt": "2026-09-30T11:48:53.501Z",
-  "updatedAt": "2026-09-30T11:48:54.396Z"
+  "updatedAt": "2026-09-30T15:32:23.451Z"
 }
