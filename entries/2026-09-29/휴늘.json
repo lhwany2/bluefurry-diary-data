@@ -9,8 +9,12 @@
   "checklist": {
     "sleepHours": null
   },
-  "reactions": {},
+  "reactions": {
+    "😢": [
+      "해곤"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-09-29T16:26:04.633Z",
-  "updatedAt": "2026-09-29T16:59:17.680Z"
+  "updatedAt": "2026-09-30T11:57:41.734Z"
 }
