@@ -10,7 +10,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "79291906-7f10-4dc2-a261-4f94b2044c03",
+      "author": "치아왼협회",
+      "text": "아니진심 거지방 필요함 나도돈그만써야되는데자꾸 똥스타에 돈존나쓰고",
+      "image": null,
+      "createdAt": "2026-10-01T14:57:19.674Z"
+    }
+  ],
   "createdAt": "2026-10-01T14:28:34.400Z",
-  "updatedAt": "2026-10-01T14:32:13.460Z"
+  "updatedAt": "2026-10-01T14:57:19.674Z"
 }
