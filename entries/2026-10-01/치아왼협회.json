@@ -10,7 +10,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "8dbaafc6-5e7f-4ec7-8d7c-3ac0d8c51d88",
+      "author": "치아왼협회",
+      "text": "씨발 사진 안올라가네",
+      "image": null,
+      "createdAt": "2026-10-01T14:53:15.156Z"
+    }
+  ],
   "createdAt": "2026-10-01T14:52:11.515Z",
-  "updatedAt": "2026-10-01T14:52:47.260Z"
+  "updatedAt": "2026-10-01T14:53:15.156Z"
 }
