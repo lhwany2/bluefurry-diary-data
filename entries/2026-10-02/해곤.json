@@ -17,7 +17,15 @@
     "delivery": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "3727fdac-5bcb-48a2-8ba1-efa4e4ac425f",
+      "author": "휴늘",
+      "text": "와진짜맛있겠다.. 사진왤케잘찍음?",
+      "image": null,
+      "createdAt": "2026-10-02T16:09:01.903Z"
+    }
+  ],
   "createdAt": "2026-10-02T05:11:27.188Z",
-  "updatedAt": "2026-10-02T05:11:33.249Z"
+  "updatedAt": "2026-10-02T16:09:01.903Z"
 }
