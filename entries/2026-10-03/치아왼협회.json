@@ -8,7 +8,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "e123297b-1823-46f2-8eee-74a853e7ee3d",
+      "author": "휴늘",
+      "text": "??씨발어니부산여행온걸이제서야",
+      "image": null,
+      "createdAt": "2026-10-03T18:03:06.355Z"
+    }
+  ],
   "createdAt": "2026-10-03T16:22:16.325Z",
-  "updatedAt": "2026-10-03T16:22:17.225Z"
+  "updatedAt": "2026-10-03T18:03:06.357Z"
 }
