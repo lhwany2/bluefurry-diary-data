@@ -10,7 +10,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "656bf374-b249-4d81-89bb-0e11f4d5aa05",
+      "author": "해곤",
+      "text": "그래서 진로 정햇어??",
+      "image": null,
+      "createdAt": "2026-10-05T12:22:13.894Z"
+    }
+  ],
   "createdAt": "2026-10-04T14:37:48.062Z",
-  "updatedAt": "2026-10-04T16:04:54.863Z"
+  "updatedAt": "2026-10-05T12:22:13.895Z"
 }
