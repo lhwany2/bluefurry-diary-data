@@ -17,7 +17,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "aaf42acd-8d63-4f2b-8395-6de202a990f0",
+      "author": "휴늘",
+      "text": "진짜끼리끼리친구하네존나잘그려;;",
+      "image": null,
+      "createdAt": "2026-10-05T12:58:31.277Z"
+    }
+  ],
   "createdAt": "2026-10-05T12:24:04.572Z",
-  "updatedAt": "2026-10-05T12:24:08.952Z"
+  "updatedAt": "2026-10-05T12:58:31.279Z"
 }
