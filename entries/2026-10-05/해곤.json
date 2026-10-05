@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "bf5e4a74-6ee4-4d44-a15b-cf55dc75fbde",
+      "author": "휴늘",
+      "text": "아니논거맞냐고맨날공부하고9시간동안학원에있는데 ㅅㅂ",
+      "image": null,
+      "createdAt": "2026-10-05T13:03:57.092Z"
+    }
+  ],
   "createdAt": "2026-10-05T12:21:34.610Z",
-  "updatedAt": "2026-10-05T12:21:35.754Z"
+  "updatedAt": "2026-10-05T13:03:57.092Z"
 }
