@@ -8,7 +8,15 @@
     "sleepHours": null
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "6f460d86-03f9-4bb5-8af1-ae6bc4fc910f",
+      "author": "해곤",
+      "text": "와진짜...뭔;;;; 가기 싫다는데 왜 강요를 하는 거임",
+      "image": null,
+      "createdAt": "2026-10-06T15:37:58.339Z"
+    }
+  ],
   "createdAt": "2026-10-06T14:00:43.502Z",
-  "updatedAt": "2026-10-06T14:00:44.302Z"
+  "updatedAt": "2026-10-06T15:37:58.339Z"
 }
