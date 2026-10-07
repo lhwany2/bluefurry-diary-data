@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "1057c68e-cf0a-495b-9d68-95adaaafbaf7",
+      "author": "치아왼협회",
+      "text": "아니 오마카세 초밥집 미친인데 예약잘못해서 아빠만 못드셧다는거 ㅈㄴ웃김",
+      "image": null,
+      "createdAt": "2026-10-07T15:49:45.059Z"
+    }
+  ],
   "createdAt": "2026-10-07T11:18:59.634Z",
-  "updatedAt": "2026-10-07T11:19:02.932Z"
+  "updatedAt": "2026-10-07T15:49:45.059Z"
 }
